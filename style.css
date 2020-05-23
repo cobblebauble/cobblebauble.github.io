@@ -1,0 +1,24 @@
+body {
+				background-color: #9aa871;
+				font-family: sans-serif;
+				
+}
+p {
+}
+.main {
+				background-color:    
+				  rgba(255,255,255,0.7);
+				margin:4%;
+				border:1px dotted black;
+				border-radius:5px 15px;
+				padding: 3%;
+}
+.header {
+				text-align: center;
+}
+img {
+				width: 80%;
+				margin-left: 10%;
+			 
+}
+
